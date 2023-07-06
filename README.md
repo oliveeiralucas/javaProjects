@@ -37,7 +37,7 @@ Para executar qualquer um dos projetos, siga as etapas abaixo:
    ```
 
 
-###Funcionalidades
+##Funcionalidades
 
 <ol>
 <li>Listagem de usurário</li>
